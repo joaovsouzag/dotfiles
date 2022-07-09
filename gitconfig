@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = joaov.souzag87@gmail.com
+	name = joao souza
